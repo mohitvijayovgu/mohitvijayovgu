@@ -38,12 +38,12 @@
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Analytics:
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=mohitvijayovgu&show_icons=true&theme=dark" alt="Mohit's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitvijayovgu&theme=dark" alt="GitHub Streak" />
 </p>
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitvijayovgu&layout=compact&theme=dark" alt="Top Langs" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohitvijayovgu&theme=dark" alt="Top Languages" />
 </p>
