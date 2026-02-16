@@ -1,9 +1,12 @@
 # 👋 About Me:
 
-- 🔭 I’m currently working on **CMS and Web Development**
-- 🤝 I’m looking to collaborate on **AI-Agents**
-- 🌱 I’m currently learning about **AI agents and Advanced React**
-- 💬 Ask me about **anything tech-related**
+# 👋 Hello, I'm Mohit Vijay! 
+
+- 🎓 **M.Sc.Digital Engineering** student at **Otto von Guericke University Magdeburg**
+- 💼 **Data Professional** with 2.5 years of experience in ETL pipelines and Data Analytics
+- 🔭 I’m currently working on **AI-Enabled Analytics and CMS Applications**
+- 🌱 I’m currently learning **Advanced React and AI Agent implementation**
+- 💬 Ask me about **Python, SQL, Power BI, or Machine Learning**
 
 ---
 
