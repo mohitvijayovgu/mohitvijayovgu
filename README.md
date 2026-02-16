@@ -2,11 +2,12 @@
 
 # 👋 Hello, I'm Mohit Vijay! 
 
-- 🎓 **M.Sc.Digital Engineering** student at **Otto von Guericke University Magdeburg**
-- 💼 **Data Professional** with 2.5 years of experience in ETL pipelines and Data Analytics
-- 🔭 I’m currently working on **AI-Enabled Analytics and CMS Applications**
-- 🌱 I’m currently learning **Advanced React and AI Agent implementation**
-- 💬 Ask me about **Python, SQL, Power BI, or Machine Learning**
+- 🎓 **M.Sc. [cite_start]Digital Engineering** student at **Otto von Guericke University Magdeburg**
+- 💼 **Former Advanced App Engineering Analyst** at **Accenture** (2.5 years experience)
+- 🔭 **Data Specialist**: Expert in building **Python-based ETL workflows** and **SQL-driven analysis**
+- 🌱 Currently mastering **PySpark, Databricks, and AI-Enabled Analytics**
+- 💬 Ask me about **Data Engineering, Power BI, or Machine Learning**
+- 🔗 [mohitvijay.site](https://mohitvijay.site) | [LinkedIn](https://www.linkedin.com/in/mohit-vijay-31b065201/)
 
 ---
 
