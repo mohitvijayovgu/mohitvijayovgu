@@ -44,7 +44,3 @@
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitvijayovgu&theme=dark" alt="GitHub Streak" />
 </p>
-
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohitvijayovgu&theme=dark" alt="Top Languages" />
-</p>
