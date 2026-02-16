@@ -2,9 +2,9 @@
 
 - 🎓 **M.Sc.Digital Engineering** student at **Otto von Guericke University Magdeburg**
 - 💼 **Former Advanced App Engineering Analyst** at **Accenture** with 2.5 years of experience
-- 🔭 **Data Specialist**: Expert in building **Python-based ETL workflows** and **SQL-driven analysis**
-- 🌱 Currently mastering **PySpark, Databricks, and AI-Enabled Analytics**
-- 💬 Ask me about **Data Analysis, Data Engineering, Power BI, or Machine Learning**
+- 🤝 I’m looking for help with **Internships**
+- 🌱 I’m currently learning about **PySpark, Databricks, and AI-Enabled Analytics, and AI agents**
+- 👯 I’m looking to collaborate on **AI-Agents**
 
 ---
 
