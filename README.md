@@ -1,11 +1,10 @@
 # 👋 Hello, I'm Mohit Vijay! 
 
-- 🎓 **M.Sc. [cite_start]Digital Engineering** student at **Otto von Guericke University Magdeburg** [cite: 49, 50]
-- [cite_start]💼 **Former Advanced App Engineering Analyst** at **Accenture** with 2.5 years of experience [cite: 4, 8, 9, 10]
-- [cite_start]🔭 **Data Specialist**: Expert in building **Python-based ETL workflows** and **SQL-driven analysis** [cite: 5, 11, 13]
-- [cite_start]🌱 Currently mastering **PySpark, Databricks, and AI-Enabled Analytics** [cite: 35]
-- [cite_start]💬 Ask me about **Data Analysis, Data Engineering, Power BI, or Machine Learning** [cite: 5, 42, 44]
-- [cite_start]🔗 [LinkedIn](https://www.linkedin.com/in/mohit-vijay-31b065201/) [cite: 2]
+- 🎓 **M.Sc.Digital Engineering** student at **Otto von Guericke University Magdeburg**
+- 💼 **Former Advanced App Engineering Analyst** at **Accenture** with 2.5 years of experience
+- 🔭 **Data Specialist**: Expert in building **Python-based ETL workflows** and **SQL-driven analysis**
+- 🌱 Currently mastering **PySpark, Databricks, and AI-Enabled Analytics**
+- 💬 Ask me about **Data Analysis, Data Engineering, Power BI, or Machine Learning**
 
 ---
 
