@@ -7,7 +7,6 @@
 - 🔭 **Data Specialist**: Expert in building **Python-based ETL workflows** and **SQL-driven analysis**
 - 🌱 Currently mastering **PySpark, Databricks, and AI-Enabled Analytics**
 - 💬 Ask me about **Data Engineering, Power BI, or Machine Learning**
-- 🔗 [mohitvijay.site](https://mohitvijay.site) | [LinkedIn](https://www.linkedin.com/in/mohit-vijay-31b065201/)
 
 ---
 
