@@ -6,7 +6,7 @@
 - 💼 **Former Advanced App Engineering Analyst** at **Accenture** (2.5 years experience)
 - 🔭 **Data Specialist**: Expert in building **Python-based ETL workflows** and **SQL-driven analysis**
 - 🌱 Currently mastering **PySpark, Databricks, and AI-Enabled Analytics**
-- 💬 Ask me about **Data Engineering, Power BI, or Machine Learning**
+- 💬 Ask me about **Data Analysis, Data Enginnering, Power BI, or Machine Learning**
 
 ---
 
