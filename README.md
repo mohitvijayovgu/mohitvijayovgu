@@ -193,7 +193,7 @@
 
 <div align="center">
 
-### 🌟 "Data is the new oil — let's refine it together." — Mohit
+### 🌟 "Data is the new oil - let's refine it together." - Mohit
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=2500&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=🚀+Always+learning%2C+always+building!;Data+%7C+Cloud+%7C+AI+%7C+Azure+%7C+PySpark+%7C+Databricks;Open+to+Internships+%26+Collaborations!;Let's+turn+data+into+decisions+together!" alt="Footer Typing" />
 
