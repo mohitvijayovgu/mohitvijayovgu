@@ -1,80 +1,33 @@
-<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <style>
-      @keyframes colorCycle {
-        0%   { stop-color: #0f0c29; }
-        12%  { stop-color: #302b63; }
-        25%  { stop-color: #1a1a2e; }
-        37%  { stop-color: #16213e; }
-        50%  { stop-color: #0f3460; }
-        62%  { stop-color: #533483; }
-        75%  { stop-color: #e94560; }
-        87%  { stop-color: #c62a47; }
-        100% { stop-color: #0f0c29; }
-      }
-      @keyframes colorCycle2 {
-        0%   { stop-color: #302b63; }
-        12%  { stop-color: #24243e; }
-        25%  { stop-color: #0f3460; }
-        37%  { stop-color: #533483; }
-        50%  { stop-color: #e94560; }
-        62%  { stop-color: #1a1a2e; }
-        75%  { stop-color: #0f0c29; }
-        87%  { stop-color: #302b63; }
-        100% { stop-color: #302b63; }
-      }
-      #s1 { animation: colorCycle 4s linear infinite; }
-      #s2 { animation: colorCycle2 4s linear infinite; }
-
-      .wave {
-        animation: waveAnim 3s ease-in-out infinite;
-        transform-origin: center bottom;
-      }
-      @keyframes waveAnim {
-        0%, 100% { d: path("M0,160 C150,120 300,180 450,150 C600,120 750,180 900,150 L900,200 L0,200 Z"); }
-        50%       { d: path("M0,150 C150,180 300,120 450,160 C600,180 750,120 900,155 L900,200 L0,200 Z"); }
-      }
-
-      .title {
-        font-family: 'Segoe UI', Arial, sans-serif;
-        font-size: 44px;
-        font-weight: 700;
-        fill: #ffffff;
-        text-anchor: middle;
-      }
-      .subtitle {
-        font-family: 'Segoe UI', Arial, sans-serif;
-        font-size: 17px;
-        font-weight: 400;
-        fill: #c9d6ff;
-        text-anchor: middle;
-      }
-
-      @keyframes pulse {
-        0%,100% { opacity: 1; }
-        50%      { opacity: 0.6; }
-      }
-      .subtitle { animation: pulse 2s ease-in-out infinite; }
-    </style>
-
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop id="s1" offset="0%"   stop-color="#0f0c29"/>
-      <stop id="s2" offset="100%" stop-color="#302b63"/>
-    </linearGradient>
-  </defs>
-
-  <!-- background -->
-  <rect width="900" height="200" fill="url(#bg)" rx="0"/>
-
-  <!-- decorative circles -->
-  <circle cx="80"  cy="50"  r="60" fill="rgba(108,99,255,0.12)"/>
-  <circle cx="820" cy="150" r="80" fill="rgba(201,214,255,0.08)"/>
-  <circle cx="450" cy="20"  r="40" fill="rgba(233,69,96,0.10)"/>
-
-  <!-- wave at bottom -->
-  <path class="wave" d="M0,160 C150,120 300,180 450,150 C600,120 750,180 900,150 L900,200 L0,200 Z" fill="rgba(0,0,0,0.25)"/>
-
-  <!-- text -->
-  <text class="title"    x="450" y="95">Mohit Vijay</text>
-  <text class="subtitle" x="450" y="135">Turning Data into Decisions · M.Sc. Digital Engineering @ OVGU</text>
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <style>
+    @keyframes c1 { 0%{stop-color:#0f0c29} 14%{stop-color:#1a0533} 28%{stop-color:#0d1b4b} 42%{stop-color:#003366} 56%{stop-color:#1b0042} 70%{stop-color:#2d0047} 84%{stop-color:#00204a} 100%{stop-color:#0f0c29} }
+    @keyframes c2 { 0%{stop-color:#302b63} 14%{stop-color:#6a0dad} 28%{stop-color:#0047ab} 42%{stop-color:#005f73} 56%{stop-color:#7b2d8b} 70%{stop-color:#c0392b} 84%{stop-color:#1565c0} 100%{stop-color:#302b63} }
+    @keyframes wave { 0%,100%{d:path("M0,170 C200,140 400,195 600,160 C750,135 850,180 900,165 L900,220 L0,220 Z")} 50%{d:path("M0,160 C200,190 400,145 600,175 C750,195 850,150 900,170 L900,220 L0,220 Z")} }
+    @keyframes pulse { 0%,100%{opacity:.5} 50%{opacity:1} }
+    @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0} }
+    #s1 { animation: c1 4s linear infinite; }
+    #s2 { animation: c2 4s linear infinite; }
+    .wave { animation: wave 4s ease-in-out infinite; }
+    .pulse { animation: pulse 3s ease-in-out infinite; }
+    .blink { animation: blink 1.2s infinite; }
+    text { font-family: 'Segoe UI', Arial, sans-serif; }
+  </style>
+  <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop id="s1" offset="0%" stop-color="#0f0c29"/>
+    <stop id="s2" offset="100%" stop-color="#302b63"/>
+  </linearGradient>
+</defs>
+<rect width="900" height="220" fill="url(#bg)"/>
+<circle cx="60" cy="55" r="70" fill="rgba(108,99,255,0.10)" class="pulse"/>
+<circle cx="840" cy="160" r="90" fill="rgba(100,200,255,0.07)" class="pulse"/>
+<circle cx="450" cy="30" r="50" fill="rgba(233,69,96,0.08)" class="pulse"/>
+<circle cx="200" cy="180" r="40" fill="rgba(100,255,200,0.06)" class="pulse"/>
+<circle cx="720" cy="40" r="35" fill="rgba(255,200,100,0.07)" class="pulse"/>
+<path class="wave" d="M0,170 C200,140 400,195 600,160 C750,135 850,180 900,165 L900,220 L0,220 Z" fill="rgba(0,0,0,0.3)"/>
+<text x="450" y="95" font-size="48" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="2">Mohit Vijay</text>
+<text x="450" y="130" font-size="16" fill="#c9d6ff" text-anchor="middle" letter-spacing="1">Turning Data into Decisions  ·  M.Sc. Digital Engineering @ OVGU Magdeburg</text>
+<text x="450" y="158" font-size="13" fill="#8ba4cc" text-anchor="middle">Ex-Accenture  ·  Azure  ·  PySpark  ·  Databricks  ·  ML  ·  AI Agents  ·  Open to Internships</text>
+<rect x="340" y="170" width="12" height="12" rx="6" fill="#3fb950" class="pulse"/>
+<text x="360" y="181" font-size="12" fill="#3fb950">Available for opportunities</text>
 </svg>
