@@ -104,29 +104,86 @@
 **Capabilities:**  
 Embedding Models (OpenAI, HF, BGE, E5) • Hybrid Search (BM25 + Vector) • Reranking • Chunking Strategies
 
-### 📊 Data Analytics & BI
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+## 📊 Data Analytics & BI
 
-### ☁️ Cloud & Data Engineering
-![Azure ADF](https://img.shields.io/badge/Azure_ADF-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+<div>
 
-### 🧠 Machine Learning & AI
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=google-cloud&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Apps-6C63FF?style=for-the-badge&logo=openai&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI_Agents-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Data_Processing-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical_Computing-013243?style=for-the-badge&logo=numpy)
+![Power BI](https://img.shields.io/badge/PowerBI-Dashboarding-F2C811?style=for-the-badge&logo=powerbi)
 
-### 🛠️ Tools & DevOps
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+</div>
+
+**Capabilities:** Data Cleaning • EDA • Data Transformation • Business Insights
+
+---
+
+## ☁️ Cloud & Data Engineering
+
+<div>
+
+![Azure](https://img.shields.io/badge/Azure-Cloud-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![ADF](https://img.shields.io/badge/Azure_Data_Factory-ETL-0078D4?style=for-the-badge)
+![Databricks](https://img.shields.io/badge/Databricks-Big_Data-EF3E42?style=for-the-badge)
+![PySpark](https://img.shields.io/badge/PySpark-Distributed-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
+
+</div>
+
+**Capabilities:** ETL Pipelines • Data Modeling • Distributed Processing • Data Warehousing
+
+---
+
+## 🤖 Machine Learning & AI
+
+<div>
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-ML-F7931E?style=for-the-badge&logo=scikitlearn)
+![RAG](https://img.shields.io/badge/RAG-Applications-6C63FF?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents-Systems-8B5CF6?style=for-the-badge)
+
+</div>
+
+**Capabilities:** Model Building • Evaluation • RAG Pipelines • Agent-based Systems
+
+---
+
+## 🗄️ Databases
+
+<div>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Relational_DB-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Relational_DB-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
+
+**Capabilities:** SQL Queries • Schema Design • Data Storage • Query Optimization
+
+---
+
+## ⚙️ Backend & Apps
+
+<div>
+
+![FastAPI](https://img.shields.io/badge/FastAPI-API_Development-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-Data_Apps-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+</div>
+
+**Capabilities:** API Development • Model Deployment • Interactive Data Apps
+
+---
+
+## 🛠️ Tools & DevOps
+
+<div">
+
+![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Code_Hosting-181717?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-API_Testing-FF6C37?style=for-the-badge&logo=postman)
+
+</div>
+
+**Capabilities:** Version Control • API Testing • Collaboration • CI/CD Basics
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=3" width="100%">
 
