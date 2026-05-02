@@ -5,8 +5,6 @@
 
 </div>
 
-> ⚠️ **Setup step:** Save `animated_header.svg` (included in this repo) to your GitHub profile repo root. The animated header will then render live on your profile with color-cycling every 0.5s.
-
 <img src="https://komarev.com/ghpvc/?username=mohitvijayovgu&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS" align="right"/>
 
 <div align="center">
