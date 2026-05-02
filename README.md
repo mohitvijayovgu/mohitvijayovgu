@@ -24,7 +24,7 @@
 
 <div align="center">
 
-📍 **Magdeburg, Germany** &nbsp;|&nbsp; 🎓 **M.Sc. Digital Engineering @ OVGU** &nbsp;|&nbsp; 💼 **Ex-Accenture (2.5 yrs)** &nbsp;|&nbsp; 🚀 **Open to Internships/ Working Student**
+📍 **Magdeburg, Germany** &nbsp;|&nbsp; 🎓 **M.Sc. Digital Engineering @ OVGU** &nbsp;|&nbsp; 💼 **Ex-Accenture (2.5 yrs)** &nbsp;|&nbsp; 🚀 **Open to Internships**
 
 </div>
 
@@ -45,12 +45,12 @@
 
 ### 🌟 Key Highlights
 
-- **2.5 years** at Accenture as Advanced App Engineering Analyst — enterprise-scale systems experience
+- **2.5 years** at Accenture as Advanced App Engineering Analyst - enterprise-scale systems experience
 - Hands-on with **Azure Data Factory** for cloud-based data pipeline orchestration
 - Built a **RAG (Retrieval Augmented Generation) app** using Python and LLMs
-- Created **Car Sales Power BI Dashboard** — end-to-end BI from raw data to insights
-- **Vendor Performance Analysis** — data-driven supplier evaluation with Python & Jupyter
-- **Material Data Aggregation** — large-scale data wrangling and visual analysis
+- Created **Car Sales Power BI Dashboard** - end-to-end BI from raw data to insights
+- **Vendor Performance Analysis** - data-driven supplier evaluation with Python & Jupyter
+- **Material Data Aggregation** - large-scale data wrangling and visual analysis
 - Collaborating on **AI-enabled Healthcare Systems** (hcai-backend)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=3" width="100%">
