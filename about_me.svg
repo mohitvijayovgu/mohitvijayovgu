@@ -60,7 +60,7 @@
   <text x="472" y="112" fill="#79c0ff" font-size="12">SQL</text><text x="876" y="112" text-anchor="end" fill="#79c0ff" font-size="12">85%</text>
   <rect x="472" y="116" width="362" height="6" rx="3" fill="#161b22"/>
   <rect x="472" y="116" width="0" height="6" rx="3" fill="#378add"><animate attributeName="width" from="0" to="308" dur="1.2s" begin=".55s" fill="freeze"/></rect>
-  <text x="472" y="140" fill="#3fb950" font-size="12">Power BI</text><text x="876" y="140" text-anchor="end" fill="#3fb950" font-size="12">82%</text>
+  <text x="472" y="140" fill="#3fb950" font-size="12">Power BI</text><text x="876" y="140" text-anchor="end" fill="#3fb950" font-size="12">80%</text>
   <rect x="472" y="144" width="362" height="6" rx="3" fill="#161b22"/>
   <rect x="472" y="144" width="0" height="6" rx="3" fill="#3b6d11"><animate attributeName="width" from="0" to="297" dur="1.2s" begin=".7s" fill="freeze"/></rect>
   <text x="472" y="168" fill="#58a6ff" font-size="12">Azure ADF</text><text x="876" y="168" text-anchor="end" fill="#58a6ff" font-size="12">75%</text>
@@ -69,10 +69,10 @@
   <text x="472" y="196" fill="#ffa657" font-size="12">PySpark</text><text x="876" y="196" text-anchor="end" fill="#ffa657" font-size="12">70%</text>
   <rect x="472" y="200" width="362" height="6" rx="3" fill="#161b22"/>
   <rect x="472" y="200" width="0" height="6" rx="3" fill="#854f0b"><animate attributeName="width" from="0" to="253" dur="1.2s" begin="1s" fill="freeze"/></rect>
-  <text x="472" y="224" fill="#ff7b72" font-size="12">Databricks</text><text x="876" y="224" text-anchor="end" fill="#ff7b72" font-size="12">68%</text>
+  <text x="472" y="224" fill="#ff7b72" font-size="12">Databricks</text><text x="876" y="224" text-anchor="end" fill="#ff7b72" font-size="12">65%</text>
   <rect x="472" y="228" width="362" height="6" rx="3" fill="#161b22"/>
   <rect x="472" y="228" width="0" height="6" rx="3" fill="#993c1d"><animate attributeName="width" from="0" to="246" dur="1.2s" begin="1.1s" fill="freeze"/></rect>
-  <text x="472" y="252" fill="#e3b341" font-size="12">PostgreSQL</text><text x="876" y="252" text-anchor="end" fill="#e3b341" font-size="12">78%</text>
+  <text x="472" y="252" fill="#e3b341" font-size="12">PostgreSQL</text><text x="876" y="252" text-anchor="end" fill="#e3b341" font-size="12">80%</text>
   <rect x="472" y="256" width="362" height="6" rx="3" fill="#161b22"/>
   <rect x="472" y="256" width="0" height="6" rx="3" fill="#9e6a03"><animate attributeName="width" from="0" to="282" dur="1.2s" begin="1.2s" fill="freeze"/></rect>
 </g>
