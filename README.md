@@ -24,7 +24,7 @@
 
 <div align="center">
 
-📍 **Magdeburg, Germany** &nbsp;|&nbsp; 🎓 **M.Sc. Digital Engineering @ OVGU** &nbsp;|&nbsp; 💼 **Ex-Accenture (2.5 yrs)** &nbsp;|&nbsp; 🚀 **Open to Internships**
+📍 **Magdeburg, Germany** &nbsp;|&nbsp; 🎓 **M.Sc. Digital Engineering @ OVGU** &nbsp;|&nbsp; 💼 **Ex-Accenture (2.5 yrs)** &nbsp;|&nbsp; 🚀 **Open to Internships                     **
 
 </div>
 
