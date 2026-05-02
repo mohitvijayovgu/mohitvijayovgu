@@ -1,18 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mohit%20Vijay&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Turning%20Data%20into%20Decisions%20%7C%20M.Sc.%20Digital%20Engineering%20%40%20OVGU&descAlignY=58&descColor=c9d6ff" width="100%"/>
+<!-- COLOR-CYCLING ANIMATED HEADER SVG -->
+<img src="https://raw.githubusercontent.com/mohitvijayovgu/mohitvijayovgu/main/animated_header.svg" width="100%" alt="Mohit Vijay"/>
 
 </div>
+
+> ⚠️ **Setup step:** Save `animated_header.svg` (included in this repo) to your GitHub profile repo root. The animated header will then render live on your profile with color-cycling every 0.5s.
 
 <img src="https://komarev.com/ghpvc/?username=mohitvijayovgu&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS" align="right"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=21&duration=2800&pause=900&color=C9D6FF&center=true&vCenter=true&width=750&lines=👋+Hello%2C+I'm+Mohit+Vijay!;📊+Data+%26+Analytics+Enthusiast;☁️+Azure+%7C+PySpark+%7C+Databricks;🤖+Building+RAG+Apps+%26+AI+Agents;🎓+M.Sc.+Digital+Engineering+%40+OVGU;💼+Ex-Accenture+App+Analyst+(2.5+yrs);🚀+Open+to+Internships+%7C+Let's+Collaborate!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=21&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=750&lines=👋+Hello%2C+I'm+Mohit+Vijay!;📊+Data+%26+Analytics+Enthusiast;☁️+Azure+%7C+PySpark+%7C+Databricks;🤖+Building+RAG+Apps+%26+AI+Agents;🎓+M.Sc.+Digital+Engineering+%40+OVGU;💼+Ex-Accenture+App+Analyst+(2.5+yrs);🚀+Open+to+Internships+%7C+Let's+Collaborate!" alt="Typing SVG" />
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=3" width="100%">
 
 <div align="center">
 
@@ -20,16 +21,9 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=3" width="100%">
+---
 
-<br/>
-
-<!-- 3D-style section divider -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,50:302b63,100:24243e&height=60&text=👨‍💻%20About%20Me&fontSize=28&fontColor=c9d6ff&animation=twinkling" width="100%"/>
-</div>
-
-<br/>
+## 👨‍💻 About Me
 
 <table>
 <tr>
@@ -88,18 +82,11 @@ me = MohitVijay()
 print(me.say_hi())  # 🚀 Let's turn data into decisions together!
 ```
 
-> 💡 *M.Sc. Digital Engineering student with enterprise app experience at Accenture — now deep into Data, Cloud & AI. Passionate about building end-to-end data solutions on Azure and beyond.*
+> 💡 *M.Sc. Digital Engineering student with enterprise experience at Accenture — now deep into Data, Cloud & AI. Passionate about building end-to-end data solutions on Azure and beyond.*
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=3" width="100%">
-
-<!-- 3D-style section divider -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,50:302b63,100:24243e&height=60&text=🌐%20Connect%20With%20Me&fontSize=28&fontColor=c9d6ff&animation=twinkling" width="100%"/>
-</div>
-
-<br/>
+## 🌐 Connect With Me
 
 <div align="center">
 
@@ -110,16 +97,9 @@ print(me.say_hi())  # 🚀 Let's turn data into decisions together!
 
 </div>
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=3" width="100%">
-
-<!-- 3D-style section divider -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,50:302b63,100:24243e&height=60&text=💻%20Tech%20Stack&fontSize=28&fontColor=c9d6ff&animation=twinkling" width="100%"/>
-</div>
-
-<br/>
+## 💻 Tech Stack
 
 ### 🐍 Languages & Querying
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -145,16 +125,9 @@ print(me.say_hi())  # 🚀 Let's turn data into decisions together!
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=3" width="100%">
-
-<!-- 3D-style section divider -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,50:302b63,100:24243e&height=60&text=🚀%20What%20I'm%20Up%20To&fontSize=28&fontColor=c9d6ff&animation=twinkling" width="100%"/>
-</div>
-
-<br/>
+## 🚀 What I'm Up To
 
 - 🌱 **Currently Learning:** PySpark, Databricks, Azure Data Engineering & AI Agents
 - 👯 **Looking to Collaborate on:** AI Agents & Intelligent Data Systems
@@ -162,16 +135,9 @@ print(me.say_hi())  # 🚀 Let's turn data into decisions together!
 - 🏥 **Recent Work:** AI-Enabled Healthcare Systems (hcai-backend), RAG App
 - 📦 **Pinned Projects:** Vendor Performance Analysis · RAG App · Car Sales Dashboard (Power BI)
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=3" width="100%">
-
-<!-- 3D-style section divider -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,50:302b63,100:24243e&height=60&text=📊%20GitHub%20Analytics&fontSize=28&fontColor=c9d6ff&animation=twinkling" width="100%"/>
-</div>
-
-<br/>
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -187,16 +153,9 @@ print(me.say_hi())  # 🚀 Let's turn data into decisions together!
 
 </div>
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=3" width="100%">
-
-<!-- 3D-style section divider -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,50:302b63,100:24243e&height=60&text=📈%20Contribution%20Graph&fontSize=28&fontColor=c9d6ff&animation=twinkling" width="100%"/>
-</div>
-
-<br/>
+## 📈 Contribution Graph
 
 <div align="center">
 
@@ -204,16 +163,9 @@ print(me.say_hi())  # 🚀 Let's turn data into decisions together!
 
 </div>
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=3" width="100%">
-
-<!-- 3D-style section divider -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,50:302b63,100:24243e&height=60&text=🎯%202025–2026%20Goals&fontSize=28&fontColor=c9d6ff&animation=twinkling" width="100%"/>
-</div>
-
-<br/>
+## 🎯 2025–2026 Goals
 
 - [ ] ☁️ Build end-to-end Azure data pipelines (ADF + Synapse + Databricks)
 - [ ] ⚡ Master PySpark for large-scale distributed data processing
@@ -222,13 +174,11 @@ print(me.say_hi())  # 🚀 Let's turn data into decisions together!
 - [ ] 🌍 Contribute to open-source data & AI projects
 - [ ] 📝 Share learnings consistently on LinkedIn & GitHub
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=3" width="100%">
+---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2500&pause=1000&color=C9D6FF&center=true&vCenter=true&width=700&lines=🚀+Always+learning%2C+always+building!;Data+%7C+Cloud+%7C+AI+%7C+Azure+%7C+PySpark;Open+to+Internships+%26+Collaborations!;Let's+turn+data+into+decisions+together!" alt="Footer Typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2500&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=🚀+Always+learning%2C+always+building!;Data+%7C+Cloud+%7C+AI+%7C+Azure+%7C+PySpark;Open+to+Internships+%26+Collaborations!;Let's+turn+data+into+decisions+together!" alt="Footer Typing" />
 
 <br/>
 
