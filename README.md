@@ -35,7 +35,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=3" width="100%">
 
-🔬 **Data & Cloud Enthusiast** with a background in enterprise app engineering at Accenture — now going deep on **Data Engineering, Analytics, Machine Learning, Azure Cloud, and AI Agents**.
+🔬 **Data & Cloud Enthusiast** with a background in enterprise app engineering at Accenture - now going deep on **Data Engineering, Analytics, Machine Learning, Azure Cloud, and AI Agents**.
 
 - ☁️ Building **Azure ADF pipelines** and exploring **Databricks + PySpark** for large-scale data processing
 - 📊 Creating **Power BI dashboards** and **SQL-driven analytics** for real business insights
@@ -102,16 +102,16 @@
 ## 🚀 Featured Projects
 
 ### 🤖 AI & Machine Learning
-**[RAG App](https://github.com/mohitvijayovgu/RAG-app)** — Retrieval-Augmented Generation application using Python and LLMs for intelligent document Q&A
+**[RAG App](https://github.com/mohitvijayovgu/RAG-app)** - Retrieval-Augmented Generation application using Python and LLMs for intelligent document Q&A
 
-**[AI-Enabled Healthcare Systems](https://github.com/Adarshpandey2003/hcai-backend)** — Backend for an AI-powered healthcare platform built with JavaScript
+**[AI-Enabled Healthcare Systems](https://github.com/Adarshpandey2003/hcai-backend)** - Backend for an AI-powered healthcare platform built with JavaScript
 
 ### 📊 Data Analytics & BI
-**[Car Sales Dashboard — Power BI](https://github.com/mohitvijayovgu/Car-Sales-Dashboard-using-PowerBI)** — End-to-end Power BI dashboard for car sales insights, trends, and KPIs
+**[Car Sales Dashboard — Power BI](https://github.com/mohitvijayovgu/Car-Sales-Dashboard-using-PowerBI)** - End-to-end Power BI dashboard for car sales insights, trends, and KPIs
 
-**[Vendor Performance Analysis](https://github.com/mohitvijayovgu/vendorperformanceanalysis)** — Data-driven supplier evaluation using Python and Jupyter Notebook
+**[Vendor Performance Analysis](https://github.com/mohitvijayovgu/vendorperformanceanalysis)** - Data-driven supplier evaluation using Python and Jupyter Notebook
 
-**[Material Data Aggregation & Analysis](https://github.com/mohitvijayovgu/Material-Data-Aggregation-Analysis-using-Python)** — Large-scale material data wrangling, aggregation, and visualization using Python
+**[Material Data Aggregation & Analysis](https://github.com/mohitvijayovgu/Material-Data-Aggregation-Analysis-using-Python)** - Large-scale material data wrangling, aggregation, and visualization using Python
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=3" width="100%">
 
@@ -136,11 +136,22 @@
 
 ## 💼 Professional Experience
 
-### 🏢 Accenture · Advanced App Engineering Analyst · 2.5 Years
-- Worked on enterprise-scale application engineering and delivery
-- Collaborated across cross-functional teams on large software systems
-- Gained experience with REST APIs, databases, and system integration
-- Developed strong foundations in Java, SQL, and Postman-based API testing
+### 🏢 Accenture · 2.5 Years
+
+### 🏢 Accenture · Advanced App Engineering Analyst (Dec 2024 – Feb 2025)
+- Designed and implemented scalable ETL pipelines using Azure Data Factory and Azure Databricks  
+- Built optimized PySpark workflows using partitioning, caching, and query tuning  
+- Developed end-to-end pipelines integrated with Azure Synapse Analytics for analytics use cases  
+- Collaborated with business stakeholders to translate data requirements into scalable solutions  
+
+---
+
+### 🏢 Accenture · Advanced App Engineering Associate (Dec 2022 – Nov 2024)
+- Engineered data pipelines in Python and SQL for revenue and pricing analytics  
+- Built structured datasets and data models, reducing reporting preparation time  
+- Delivered clean and reliable data pipelines for Power BI dashboards  
+- Implemented automated data quality checks, monitoring, and alerting systems  
+- Maintained documentation and improved onboarding efficiency for new team members  
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=3" width="100%">
 
