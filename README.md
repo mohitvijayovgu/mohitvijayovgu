@@ -1,28 +1,35 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohit%20Vijay&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Data%20Engineer%20%7C%20Data%20Scientist%20%7C%20Azure%20Specialist&descAlignY=58&descColor=a8d8ea" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mohit%20Vijay&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Turning%20Data%20into%20Decisions%20%7C%20M.Sc.%20Digital%20Engineering%20%40%20OVGU&descAlignY=58&descColor=c9d6ff" width="100%"/>
 
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=mohitvijayovgu&color=4ECDC4&style=for-the-badge&label=PROFILE+VIEWS" align="right"/>
+<img src="https://komarev.com/ghpvc/?username=mohitvijayovgu&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS" align="right"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=21&duration=2800&pause=900&color=4ECDC4&center=true&vCenter=true&width=750&lines=👋+Hello%2C+I'm+Mohit+Vijay!;📊+Aspiring+Data+Analyst;🔧+Aspiring+Data+Engineer;🧠+Aspiring+Data+Scientist;☁️+Azure+Data+%26+Cloud+Enthusiast;🎓+M.Sc.+Digital+Engineering+%40+OVGU;💼+Ex-Accenture+Analyst+(2.5+yrs);🚀+Open+to+Internships+%7C+Let's+Collaborate!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=21&duration=2800&pause=900&color=C9D6FF&center=true&vCenter=true&width=750&lines=👋+Hello%2C+I'm+Mohit+Vijay!;📊+Data+%26+Analytics+Enthusiast;☁️+Azure+%7C+PySpark+%7C+Databricks;🤖+Building+RAG+Apps+%26+AI+Agents;🎓+M.Sc.+Digital+Engineering+%40+OVGU;💼+Ex-Accenture+App+Analyst+(2.5+yrs);🚀+Open+to+Internships+%7C+Let's+Collaborate!" alt="Typing SVG" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=3" width="100%">
 
 <div align="center">
 
-📍 **Magdeburg, Germany** &nbsp;|&nbsp; 🎓 **M.Sc. Digital Engineering @ OVGU** &nbsp;|&nbsp; 💼 **Ex-Accenture (2.5 yrs)**
+📍 **Magdeburg, Germany** &nbsp;|&nbsp; 🎓 **M.Sc. Digital Engineering @ OVGU** &nbsp;|&nbsp; 💼 **Ex-Accenture (2.5 yrs)** &nbsp;|&nbsp; 🚀 **Open to Internships**
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=3" width="100%">
 
-## 👨‍💻 About Me
+<br/>
+
+<!-- 3D-style section divider -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,50:302b63,100:24243e&height=60&text=👨‍💻%20About%20Me&fontSize=28&fontColor=c9d6ff&animation=twinkling" width="100%"/>
+</div>
+
+<br/>
 
 <table>
 <tr>
@@ -30,13 +37,17 @@
 
 ### 🎓 Education
 **M.Sc. Digital Engineering**
-Otto von Guericke University Magdeburg · 🇩🇪 Germany
+Otto von Guericke University · 🇩🇪 Magdeburg
+
+<br/>
 
 ### 💼 Experience
 **Advanced App Engineering Analyst**
 Accenture · 2.5 years
 
-### 📍 Based in
+<br/>
+
+### 📍 Currently Based In
 Magdeburg, Germany
 
 </td>
@@ -45,14 +56,15 @@ Magdeburg, Germany
 ### 🌱 Currently Learning
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![AI Analytics](https://img.shields.io/badge/AI--Enabled_Analytics-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI_Agents-412991?style=flat-square&logo=openai&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure_Data_Engineering-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-6C63FF?style=flat-square&logo=openai&logoColor=white)
 
-### 🎯 Target Roles
-![Data Analyst](https://img.shields.io/badge/📊_Data_Analyst-16A34A?style=flat-square)
-![Data Engineer](https://img.shields.io/badge/🔧_Data_Engineer-0089D6?style=flat-square)
-![Data Scientist](https://img.shields.io/badge/🧠_Data_Scientist-7C3AED?style=flat-square)
-![Azure](https://img.shields.io/badge/☁️_Azure_Specialist-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+<br/>
+
+### 🤝 Open To
+![Internships](https://img.shields.io/badge/💼_Internships-16A34A?style=flat-square)
+![Collab](https://img.shields.io/badge/🤖_AI_Collab-6C63FF?style=flat-square)
+![Data Roles](https://img.shields.io/badge/📊_Data_%26_Cloud_Roles-0089D6?style=flat-square)
 
 </td>
 </tr>
@@ -61,31 +73,33 @@ Magdeburg, Germany
 ```python
 class MohitVijay:
     def __init__(self):
-        self.name         = "Mohit Vijay"
-        self.location     = "Magdeburg, Germany 🇩🇪"
-        self.degree       = "M.Sc. Digital Engineering @ OVGU"
-        self.experience   = "Ex-Advanced App Analyst @ Accenture (2.5 yrs)"
-        self.skills       = ["Python", "SQL", "Power BI", "Azure ADF", "PySpark", "Databricks"]
-        self.target_roles = [
-            "Data Analyst 📊",
-            "Data Engineer 🔧",
-            "Data Scientist 🧠",
-            "Azure Data Engineer ☁️",
-        ]
-        self.open_to      = ["Internships 🤝", "Full-time Roles", "AI-Agent Collaborations 👯"]
+        self.name        = "Mohit Vijay"
+        self.location    = "Magdeburg, Germany 🇩🇪"
+        self.degree      = "M.Sc. Digital Engineering @ OVGU"
+        self.experience  = "Ex-Advanced App Analyst @ Accenture (2.5 yrs)"
+        self.skills      = ["Python", "SQL", "Power BI", "Azure ADF", "PySpark", "Databricks", "ML"]
+        self.interests   = ["Data & Analytics 📊", "Cloud Engineering ☁️", "AI Agents 🤖"]
+        self.open_to     = ["Internships 🤝", "Data & Cloud Roles", "AI Collaborations 👯"]
 
     def say_hi(self) -> str:
-        return "🚀 Let's build something intelligent together!"
+        return "🚀 Let's turn data into decisions together!"
 
 me = MohitVijay()
-print(me.say_hi())  # 🚀 Let's build something intelligent together!
+print(me.say_hi())  # 🚀 Let's turn data into decisions together!
 ```
 
-> 💡 *M.Sc. Digital Engineering student with enterprise experience at Accenture — pivoting into Data & AI. Open to roles across Data Analytics, Data Engineering, Data Science, and Azure cloud.*
+> 💡 *M.Sc. Digital Engineering student with enterprise app experience at Accenture — now deep into Data, Cloud & AI. Passionate about building end-to-end data solutions on Azure and beyond.*
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%">
+<br/>
 
-## 🌐 Connect With Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=3" width="100%">
+
+<!-- 3D-style section divider -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,50:302b63,100:24243e&height=60&text=🌐%20Connect%20With%20Me&fontSize=28&fontColor=c9d6ff&animation=twinkling" width="100%"/>
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -96,9 +110,16 @@ print(me.say_hi())  # 🚀 Let's build something intelligent together!
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%">
+<br/>
 
-## 💻 Tech Stack
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=3" width="100%">
+
+<!-- 3D-style section divider -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,50:302b63,100:24243e&height=60&text=💻%20Tech%20Stack&fontSize=28&fontColor=c9d6ff&animation=twinkling" width="100%"/>
+</div>
+
+<br/>
 
 ### 🐍 Languages & Querying
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -111,12 +132,12 @@ print(me.say_hi())  # 🚀 Let's build something intelligent together!
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🔧 Data Engineering & Big Data
+### ☁️ Cloud & Data Engineering
+![Azure ADF](https://img.shields.io/badge/Azure_ADF-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Azure ADF](https://img.shields.io/badge/Azure_ADF-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-### 🧠 Data Science & ML
+### 🧠 Machine Learning & AI
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=google-cloud&logoColor=white)
 
@@ -124,63 +145,97 @@ print(me.say_hi())  # 🚀 Let's build something intelligent together!
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%">
+<br/>
 
-## 🚀 What I'm Up To
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=3" width="100%">
+
+<!-- 3D-style section divider -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,50:302b63,100:24243e&height=60&text=🚀%20What%20I'm%20Up%20To&fontSize=28&fontColor=c9d6ff&animation=twinkling" width="100%"/>
+</div>
+
+<br/>
 
 - 🌱 **Currently Learning:** PySpark, Databricks, Azure Data Engineering & AI Agents
 - 👯 **Looking to Collaborate on:** AI Agents & Intelligent Data Systems
-- 🤝 **Open to Internships / Roles in:** Data Analytics · Data Engineering · Data Science · Azure
-- 🏥 **Recent Work:** AI-Enabled Healthcare Systems (hcai-backend), RAG App, Vendor Performance Analysis
+- 🤝 **Open to:** Internships and roles in Data & Cloud Engineering
+- 🏥 **Recent Work:** AI-Enabled Healthcare Systems (hcai-backend), RAG App
 - 📦 **Pinned Projects:** Vendor Performance Analysis · RAG App · Car Sales Dashboard (Power BI)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%">
+<br/>
 
-## 📊 GitHub Analytics
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=3" width="100%">
+
+<!-- 3D-style section divider -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,50:302b63,100:24243e&height=60&text=📊%20GitHub%20Analytics&fontSize=28&fontColor=c9d6ff&animation=twinkling" width="100%"/>
+</div>
+
+<br/>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=mohitvijayovgu&theme=radical&hide_border=true&background=0D1117&stroke=4ECDC4&ring=F38181&fire=FF6B6B&currStreakLabel=4ECDC4" alt="GitHub Streak" width="48%"/>
+<img src="https://streak-stats.demolab.com?user=mohitvijayovgu&theme=tokyonight&hide_border=true&background=0f0c29&stroke=6C63FF&ring=C9D6FF&fire=6C63FF&currStreakLabel=C9D6FF" alt="GitHub Streak" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohitvijayovgu&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=4ECDC4&icon_color=F38181&text_color=E6EDF3" alt="GitHub Stats" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mohitvijayovgu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=C9D6FF&icon_color=6C63FF&text_color=E6EDF3" alt="GitHub Stats" width="48%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitvijayovgu&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=4ECDC4&text_color=E6EDF3" alt="Top Languages" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitvijayovgu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=C9D6FF&text_color=E6EDF3" alt="Top Languages" width="40%"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%">
+<br/>
 
-## 📈 Contribution Graph
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=3" width="100%">
+
+<!-- 3D-style section divider -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,50:302b63,100:24243e&height=60&text=📈%20Contribution%20Graph&fontSize=28&fontColor=c9d6ff&animation=twinkling" width="100%"/>
+</div>
+
+<br/>
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohitvijayovgu&theme=react-dark&hide_border=true&bg_color=0D1117&color=4ECDC4&line=F38181&point=E6EDF3)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohitvijayovgu&theme=tokyo-night&hide_border=true&bg_color=0f0c29&color=C9D6FF&line=6C63FF&point=ffffff)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%">
+<br/>
 
-## 🎯 2025–2026 Goals
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=3" width="100%">
 
-- [ ] 📊 Land an internship as a Data Analyst / Data Engineer / Data Scientist
-- [ ] ☁️ Get hands-on with Azure Data Factory, Synapse & cloud pipelines
-- [ ] ⚡ Master PySpark & Databricks for large-scale data engineering
-- [ ] 🤖 Build and deploy production-grade AI Agent systems
+<!-- 3D-style section divider -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,50:302b63,100:24243e&height=60&text=🎯%202025–2026%20Goals&fontSize=28&fontColor=c9d6ff&animation=twinkling" width="100%"/>
+</div>
+
+<br/>
+
+- [ ] ☁️ Build end-to-end Azure data pipelines (ADF + Synapse + Databricks)
+- [ ] ⚡ Master PySpark for large-scale distributed data processing
+- [ ] 🤖 Deploy production-grade AI Agent & RAG systems
+- [ ] 🏆 Land a meaningful internship in Data / Cloud / AI
 - [ ] 🌍 Contribute to open-source data & AI projects
-- [ ] 📝 Document and share learnings on LinkedIn / GitHub
+- [ ] 📝 Share learnings consistently on LinkedIn & GitHub
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%">
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=3" width="100%">
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2500&pause=1000&color=F38181&center=true&vCenter=true&width=700&lines=🚀+Always+learning%2C+always+building!;Data+Analyst+%7C+Data+Engineer+%7C+Data+Scientist+%7C+Azure;Open+to+Internships+%26+Collaborations!;Let's+connect+and+build+something+amazing!" alt="Footer Typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2500&pause=1000&color=C9D6FF&center=true&vCenter=true&width=700&lines=🚀+Always+learning%2C+always+building!;Data+%7C+Cloud+%7C+AI+%7C+Azure+%7C+PySpark;Open+to+Internships+%26+Collaborations!;Let's+turn+data+into+decisions+together!" alt="Footer Typing" />
+
+<br/>
 
 **Thanks for visiting! Let's connect and build something amazing together! 🤝**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer" width="100%"/>
 
 </div>
