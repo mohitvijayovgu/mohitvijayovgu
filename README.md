@@ -159,12 +159,6 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohitvijayovgu&theme=tokyonight" width="90%"/>
-
-</div>
-
-<div align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohitvijayovgu&theme=tokyonight" width="45%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohitvijayovgu&theme=tokyonight" width="45%"/>
 
