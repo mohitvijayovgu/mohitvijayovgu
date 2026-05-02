@@ -67,24 +67,6 @@
 <img src="https://raw.githubusercontent.com/mohitvijayovgu/mohitvijayovgu/main/about_me.svg" width="100%" alt="About Mohit Vijay"/>
 </div>
 
-```python
-class MohitVijay:
-    def __init__(self):
-        self.name        = "Mohit Vijay"
-        self.location    = "Magdeburg, Germany 🇩🇪"
-        self.degree      = "M.Sc. Digital Engineering @ OVGU"
-        self.experience  = "Ex-Advanced App Analyst @ Accenture (2.5 yrs)"
-        self.stack       = ["Python", "SQL", "Azure ADF", "PySpark", "Databricks", "Power BI"]
-        self.interests   = ["Data Engineering ☁️", "Analytics 📊", "AI Agents 🤖", "RAG Apps"]
-        self.open_to     = ["Internships 🤝", "Data & Cloud Roles", "AI Collaborations 👯"]
-
-    def say_hi(self) -> str:
-        return "🚀 Let's turn data into decisions together!"
-
-me = MohitVijay()
-print(me.say_hi())  # 🚀 Let's turn data into decisions together!
-```
-
 > 💡 *M.Sc. Digital Engineering student with enterprise experience at Accenture — pivoting deep into Data, Cloud & AI. Passionate about building end-to-end data solutions on Azure and beyond.*
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=3" width="100%">
