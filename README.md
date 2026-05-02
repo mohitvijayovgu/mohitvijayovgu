@@ -129,8 +129,8 @@
 
 | Duration | Institute | Degree | Status |
 | :--- | :--- | :--- | :--- |
-| **2025 – Present** | **Otto von Guericke University Magdeburg** | **M.Sc. Digital Engineering ( Data Analytics and AI focused )** | 🟢 Ongoing |
-| **2018 – 2022** | **SIT** | **B.E. ( Bachelor of Engineering )** | ✅ Completed |
+| **2025 – Present** | **Otto von Guericke University Magdeburg, Germany** | **M.Sc. Digital Engineering ( Data Analytics and AI focused )** | 🟢 Ongoing |
+| **2018 – 2022** | **Siddaganga Institute of Technology, Karnataka, India** | **B.E. ( Bachelor of Engineering )** | ✅ Completed |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=3" width="100%">
 
