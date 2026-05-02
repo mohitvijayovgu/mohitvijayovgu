@@ -62,9 +62,93 @@
 
 ## 👨‍💻 About Me
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/mohitvijayovgu/mohitvijayovgu/main/about_me.svg" width="100%" alt="About Mohit Vijay"/>
-</div>
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 🎓 Education
+**M.Sc. Digital Engineering**
+Otto von Guericke University · 🇩🇪 Magdeburg
+
+<br/>
+
+### 💼 Experience
+**Advanced App Engineering Analyst**
+Accenture · 2.5 years
+
+<br/>
+
+### 📍 Based In
+Magdeburg, Germany &nbsp; UTC+2
+
+<br/>
+
+### 🌱 Currently Learning
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure_Data_Eng-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-6C63FF?style=flat-square&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Apps-412991?style=flat-square&logo=openai&logoColor=white)
+
+<br/>
+
+### 🤝 Open To
+![Internships](https://img.shields.io/badge/💼_Internships-16A34A?style=flat-square)
+![Data Roles](https://img.shields.io/badge/📊_Data_%26_Cloud_Roles-0089D6?style=flat-square)
+![AI Collab](https://img.shields.io/badge/🤖_AI_Collaboration-6C63FF?style=flat-square)
+
+</td>
+<td valign="top" width="50%">
+
+### 📊 Skill Levels
+
+**Python** &nbsp; `████████████████████` 90%
+
+**SQL** &nbsp; `███████████████████░` 85%
+
+**Power BI** &nbsp; `████████████████░░░░` 82%
+
+**PostgreSQL** &nbsp; `███████████████░░░░░` 78%
+
+**Azure ADF** &nbsp; `███████████████░░░░░` 75%
+
+**PySpark** &nbsp; `██████████████░░░░░░` 70%
+
+**Databricks** &nbsp; `█████████████░░░░░░░` 68%
+
+**Scikit-Learn** &nbsp; `████████████░░░░░░░░` 65%
+
+<br/>
+
+### 🟢 Status
+> Available for Internships & Data/Cloud Roles
+>
+> Magdeburg, DE · Replies within 24h
+
+### ⏱️ Experience
+> **2.5 years** Professional Experience @ Accenture
+
+</td>
+</tr>
+</table>
+
+```python
+class MohitVijay:
+    def __init__(self):
+        self.name        = "Mohit Vijay"
+        self.location    = "Magdeburg, Germany 🇩🇪"
+        self.degree      = "M.Sc. Digital Engineering @ OVGU"
+        self.experience  = "Ex-Advanced App Analyst @ Accenture (2.5 yrs)"
+        self.stack       = ["Python", "SQL", "Azure ADF", "PySpark", "Databricks", "Power BI"]
+        self.interests   = ["Data Engineering ☁️", "Analytics 📊", "AI Agents 🤖", "RAG Apps"]
+        self.open_to     = ["Internships 🤝", "Data & Cloud Roles", "AI Collaborations 👯"]
+
+    def say_hi(self) -> str:
+        return "🚀 Let's turn data into decisions together!"
+
+me = MohitVijay()
+print(me.say_hi())  # 🚀 Let's turn data into decisions together!
+```
 
 > 💡 *M.Sc. Digital Engineering student with enterprise experience at Accenture — pivoting deep into Data, Cloud & AI. Passionate about building end-to-end data solutions on Azure and beyond.*
 
