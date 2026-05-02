@@ -1,0 +1,80 @@
+<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @keyframes colorCycle {
+        0%   { stop-color: #0f0c29; }
+        12%  { stop-color: #302b63; }
+        25%  { stop-color: #1a1a2e; }
+        37%  { stop-color: #16213e; }
+        50%  { stop-color: #0f3460; }
+        62%  { stop-color: #533483; }
+        75%  { stop-color: #e94560; }
+        87%  { stop-color: #c62a47; }
+        100% { stop-color: #0f0c29; }
+      }
+      @keyframes colorCycle2 {
+        0%   { stop-color: #302b63; }
+        12%  { stop-color: #24243e; }
+        25%  { stop-color: #0f3460; }
+        37%  { stop-color: #533483; }
+        50%  { stop-color: #e94560; }
+        62%  { stop-color: #1a1a2e; }
+        75%  { stop-color: #0f0c29; }
+        87%  { stop-color: #302b63; }
+        100% { stop-color: #302b63; }
+      }
+      #s1 { animation: colorCycle 4s linear infinite; }
+      #s2 { animation: colorCycle2 4s linear infinite; }
+
+      .wave {
+        animation: waveAnim 3s ease-in-out infinite;
+        transform-origin: center bottom;
+      }
+      @keyframes waveAnim {
+        0%, 100% { d: path("M0,160 C150,120 300,180 450,150 C600,120 750,180 900,150 L900,200 L0,200 Z"); }
+        50%       { d: path("M0,150 C150,180 300,120 450,160 C600,180 750,120 900,155 L900,200 L0,200 Z"); }
+      }
+
+      .title {
+        font-family: 'Segoe UI', Arial, sans-serif;
+        font-size: 44px;
+        font-weight: 700;
+        fill: #ffffff;
+        text-anchor: middle;
+      }
+      .subtitle {
+        font-family: 'Segoe UI', Arial, sans-serif;
+        font-size: 17px;
+        font-weight: 400;
+        fill: #c9d6ff;
+        text-anchor: middle;
+      }
+
+      @keyframes pulse {
+        0%,100% { opacity: 1; }
+        50%      { opacity: 0.6; }
+      }
+      .subtitle { animation: pulse 2s ease-in-out infinite; }
+    </style>
+
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop id="s1" offset="0%"   stop-color="#0f0c29"/>
+      <stop id="s2" offset="100%" stop-color="#302b63"/>
+    </linearGradient>
+  </defs>
+
+  <!-- background -->
+  <rect width="900" height="200" fill="url(#bg)" rx="0"/>
+
+  <!-- decorative circles -->
+  <circle cx="80"  cy="50"  r="60" fill="rgba(108,99,255,0.12)"/>
+  <circle cx="820" cy="150" r="80" fill="rgba(201,214,255,0.08)"/>
+  <circle cx="450" cy="20"  r="40" fill="rgba(233,69,96,0.10)"/>
+
+  <!-- wave at bottom -->
+  <path class="wave" d="M0,160 C150,120 300,180 450,150 C600,120 750,180 900,150 L900,200 L0,200 Z" fill="rgba(0,0,0,0.25)"/>
+
+  <!-- text -->
+  <text class="title"    x="450" y="95">Mohit Vijay</text>
+  <text class="subtitle" x="450" y="135">Turning Data into Decisions · M.Sc. Digital Engineering @ OVGU</text>
+</svg>
