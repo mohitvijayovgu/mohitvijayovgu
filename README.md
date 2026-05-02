@@ -26,6 +26,7 @@
 
 📍 **Magdeburg, Germany** &nbsp;|&nbsp; 🎓 **M.Sc. Digital Engineering @ OVGU** &nbsp;|&nbsp; 💼 **Ex-Accenture (2.5 yrs)** &nbsp;|&nbsp; 🚀 **Open to Internships**
 
+<div>
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-vijay-31b065201/)
