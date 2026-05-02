@@ -24,7 +24,7 @@
 
 <div align="center">
 
-📍 **Magdeburg, Germany** &nbsp;|&nbsp; 🎓 **M.Sc. Digital Engineering @ OVGU** &nbsp;|&nbsp; 💼 **Ex-Accenture (2.5 yrs)** &nbsp;|&nbsp; 🚀 **Open to Internships**
+📍 **Magdeburg, Germany** &nbsp;|&nbsp; 🎓 **M.Sc. Digital Engineering @ OVGU** &nbsp;|&nbsp; 💼 **Ex-Accenture (2.5 yrs)** &nbsp;|&nbsp; 🚀 **Open to Internships/ Working Student**
 
 </div>
 
@@ -32,11 +32,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohitvijayovgu)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mohit._.vj/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mv.sit.me@gmail.com)
-[![RAG App](https://img.shields.io/badge/RAG_App-6C63FF?style=for-the-badge&logo=python&logoColor=white)](https://github.com/mohitvijayovgu/RAG-app)
-[![Vendor Analysis](https://img.shields.io/badge/Vendor_Performance_Analysis-0089D6?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/mohitvijayovgu/vendorperformanceanalysis)
-[![Car Sales Dashboard](https://img.shields.io/badge/Car_Sales_Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/mohitvijayovgu/Car-Sales-Dashboard-using-PowerBI)
-[![Material Data](https://img.shields.io/badge/Material_Data_Analysis-FF6B6B?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/mohitvijayovgu/Material-Data-Aggregation-Analysis-using-Python)
-[![Healthcare AI](https://img.shields.io/badge/Healthcare_AI_Backend-22C55E?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/Adarshpandey2003/hcai-backend)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=3" width="100%">
 
@@ -66,24 +61,6 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/mohitvijayovgu/mohitvijayovgu/main/about_me.svg" width="100%" alt="About Mohit Vijay"/>
 </div>
-
-```python
-class MohitVijay:
-    def __init__(self):
-        self.name        = "Mohit Vijay"
-        self.location    = "Magdeburg, Germany 🇩🇪"
-        self.degree      = "M.Sc. Digital Engineering @ OVGU"
-        self.experience  = "Ex-Advanced App Analyst @ Accenture (2.5 yrs)"
-        self.stack       = ["Python", "SQL", "Azure ADF", "PySpark", "Databricks", "Power BI"]
-        self.interests   = ["Data Engineering ☁️", "Analytics 📊", "AI Agents 🤖", "RAG Apps"]
-        self.open_to     = ["Internships 🤝", "Data & Cloud Roles", "AI Collaborations 👯"]
-
-    def say_hi(self) -> str:
-        return "🚀 Let's turn data into decisions together!"
-
-me = MohitVijay()
-print(me.say_hi())  # 🚀 Let's turn data into decisions together!
-```
 
 > 💡 *M.Sc. Digital Engineering student with enterprise experience at Accenture — pivoting deep into Data, Cloud & AI. Passionate about building end-to-end data solutions on Azure and beyond.*
 
@@ -152,8 +129,8 @@ print(me.say_hi())  # 🚀 Let's turn data into decisions together!
 
 | Duration | Institute | Degree | Status |
 | :--- | :--- | :--- | :--- |
-| **2023 – Present** | **Otto von Guericke University Magdeburg** | **M.Sc. Digital Engineering** | 🟢 Ongoing |
-| **2018 – 2022** | **SIT** | **B.E. / B.Tech** | ✅ Completed |
+| **2025 – Present** | **Otto von Guericke University Magdeburg** | **M.Sc. Digital Engineering ( Data Analytics and AI focused )** | 🟢 Ongoing |
+| **2018 – 2022** | **SIT** | **B.E. ( Bachelor of Engineering )** | ✅ Completed |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=3" width="100%">
 
@@ -216,7 +193,7 @@ print(me.say_hi())  # 🚀 Let's turn data into decisions together!
 
 <div align="center">
 
-### 🌟 "Data is the new oil — let's refine it together." — Mohit
+### 🌟 "Data is the new oil - let's refine it together." - Mohit
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=2500&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=🚀+Always+learning%2C+always+building!;Data+%7C+Cloud+%7C+AI+%7C+Azure+%7C+PySpark+%7C+Databricks;Open+to+Internships+%26+Collaborations!;Let's+turn+data+into+decisions+together!" alt="Footer Typing" />
 
