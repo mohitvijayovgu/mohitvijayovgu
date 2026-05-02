@@ -32,11 +32,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohitvijayovgu)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mohit._.vj/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mv.sit.me@gmail.com)
-[![RAG App](https://img.shields.io/badge/RAG_App-6C63FF?style=for-the-badge&logo=python&logoColor=white)](https://github.com/mohitvijayovgu/RAG-app)
-[![Vendor Analysis](https://img.shields.io/badge/Vendor_Performance_Analysis-0089D6?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/mohitvijayovgu/vendorperformanceanalysis)
-[![Car Sales Dashboard](https://img.shields.io/badge/Car_Sales_Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/mohitvijayovgu/Car-Sales-Dashboard-using-PowerBI)
-[![Material Data](https://img.shields.io/badge/Material_Data_Analysis-FF6B6B?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/mohitvijayovgu/Material-Data-Aggregation-Analysis-using-Python)
-[![Healthcare AI](https://img.shields.io/badge/Healthcare_AI_Backend-22C55E?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/Adarshpandey2003/hcai-backend)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=3" width="100%">
 
@@ -134,8 +129,8 @@
 
 | Duration | Institute | Degree | Status |
 | :--- | :--- | :--- | :--- |
-| **2023 – Present** | **Otto von Guericke University Magdeburg** | **M.Sc. Digital Engineering** | 🟢 Ongoing |
-| **2018 – 2022** | **SIT** | **B.E. / B.Tech** | ✅ Completed |
+| **2023 – Present** | **Otto von Guericke University Magdeburg** | **M.Sc. Digital Engineering (Data Analytics an AI)** | 🟢 Ongoing |
+| **2018 – 2022** | **Siddaganga Institute of Technology, India** | **B.E. (Bachelor of Engineering)** | ✅ Completed |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=3" width="100%">
 
