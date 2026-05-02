@@ -158,13 +158,16 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mohitvijayovgu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c9d6ff&icon_color=6C63FF&text_color=E6EDF3" alt="GitHub Stats" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitvijayovgu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c9d6ff&text_color=E6EDF3" alt="Top Languages" width="40%"/>
-
+<img src="https://streak-stats.demolab.com?user=mohitvijayovgu&theme=tokyonight&hide_border=true&background=0d1117&stroke=6C63FF&ring=c9d6ff&fire=6C63FF&currStreakLabel=c9d6ff&dates=8b949e&sideLabels=c9d6ff&sideNums=ffffff" alt="GitHub Streak" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitvijayovgu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c9d6ff&text_color=E6EDF3&langs_count=6" alt="Top Languages" width="42%"/>
 </div>
-
+<div align="center">
+![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-Most_Used-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Primary_Language-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Data_Querying-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Backend_Dev-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+ 
+</div>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=3" width="100%">
 
 ## 📈 Contribution Graph
