@@ -138,7 +138,7 @@
 
 ### 🏢 Accenture · 2.5 Years
 
-### 🏢 Accenture · Advanced App Engineering Analyst (Dec 2024 – Feb 2025)
+### 🏢 Accenture · Advanced App Engineering Analyst (Dec 2024 - Feb 2025)
 - Designed and implemented scalable ETL pipelines using Azure Data Factory and Azure Databricks  
 - Built optimized PySpark workflows using partitioning, caching, and query tuning  
 - Developed end-to-end pipelines integrated with Azure Synapse Analytics for analytics use cases  
@@ -146,7 +146,7 @@
 
 ---
 
-### 🏢 Accenture · Advanced App Engineering Associate (Dec 2022 – Nov 2024)
+### 🏢 Accenture · Advanced App Engineering Associate (Dec 2022 - Nov 2024)
 - Engineered data pipelines in Python and SQL for revenue and pricing analytics  
 - Built structured datasets and data models, reducing reporting preparation time  
 - Delivered clean and reliable data pipelines for Power BI dashboards  
@@ -177,15 +177,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=3" width="100%">
 
-## 🎯 2025–2026 Goals
+## 🎯 2026 Goals
 
 - [ ] ☁️ Build end-to-end Azure data pipelines (ADF + Synapse + Databricks)
 - [ ] ⚡ Master PySpark for large-scale distributed data engineering
-- [ ] 🤖 Deploy production-grade AI Agent & RAG systems
+- [ ] 🤖 Deploy production-grade AI Agent & RAG systems 
 - [ ] 🏆 Land a meaningful internship in Data / Cloud / AI
 - [ ] 📊 Publish more Power BI dashboards and data analysis projects
 - [ ] 🌍 Contribute to open-source data & AI projects
-- [ ] 📝 Share learnings consistently on LinkedIn & GitHub
+- [ ] 📝 Share learnings consistently on LinkedIn & GitHub 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=3" width="100%">
 
