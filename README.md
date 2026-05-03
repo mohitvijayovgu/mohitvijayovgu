@@ -35,7 +35,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=3" width="100%">
 
-🔬 **Data & Cloud Enthusiast** with a background in enterprise app engineering at Accenture - now going deep on **Data Engineering, Analytics, Machine Learning, Azure Cloud, and AI Agents**.
+🔬 **Data & AI Enthusiast** with a background in enterprise app engineering at Accenture - now going deep on **Data Engineering, Analytics, Machine Learning, Azure Cloud, and AI Agents**.
 
 - ☁️ Building **Azure ADF pipelines** and exploring **Databricks + PySpark** for large-scale data processing
 - 📊 Creating **Power BI dashboards** and **SQL-driven analytics** for real business insights
