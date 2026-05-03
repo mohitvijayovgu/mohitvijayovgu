@@ -30,17 +30,17 @@
 <text x="142" y="21" text-anchor="middle" font-size="11" fill="#8b949e">mohit_vijay.py</text>
 <text x="875" y="21" text-anchor="end" font-size="11" fill="#8b949e">Python 3.11</text>
 <g class="f1">
-  <text x="18" y="58" font-size="12" class="cm"># ── mohit_vijay.py · 2025 ──────────────────</text>
+  <text x="18" y="58" font-size="12" class="cm"># ── mohit_vijay.py ──────────────────</text>
   <text x="18" y="78" font-size="13"><tspan class="kw">class </tspan><tspan class="fn">MohitVijay</tspan><tspan fill="#e6edf3">:</tspan></text>
   <text x="18" y="96" font-size="13"><tspan fill="#e6edf3">  </tspan><tspan class="kw">def </tspan><tspan class="fn">__init__</tspan><tspan fill="#e6edf3">(self):</tspan></text>
   <text x="18" y="114" font-size="13"><tspan fill="#e6edf3">    </tspan><tspan class="st">self</tspan><tspan fill="#e6edf3">.name     </tspan><tspan class="op">= </tspan><tspan class="val">"Mohit Vijay"</tspan></text>
-  <text x="18" y="132" font-size="13"><tspan fill="#e6edf3">    </tspan><tspan class="st">self</tspan><tspan fill="#e6edf3">.role     </tspan><tspan class="op">= </tspan><tspan class="val">"Data &amp; Cloud Enthusiast"</tspan></text>
+  <text x="18" y="132" font-size="13"><tspan fill="#e6edf3">    </tspan><tspan class="st">self</tspan><tspan fill="#e6edf3">.role     </tspan><tspan class="op">= </tspan><tspan class="val">"Data &amp; AI Enthusiast"</tspan></text>
   <text x="18" y="150" font-size="13"><tspan fill="#e6edf3">    </tspan><tspan class="st">self</tspan><tspan fill="#e6edf3">.degree   </tspan><tspan class="op">= </tspan><tspan class="val">"M.Sc. Digital Eng @ OVGU"</tspan></text>
   <text x="18" y="168" font-size="13"><tspan fill="#e6edf3">    </tspan><tspan class="st">self</tspan><tspan fill="#e6edf3">.prev     </tspan><tspan class="op">= </tspan><tspan class="val">"Accenture · 2.5 yrs"</tspan></text>
   <text x="18" y="186" font-size="13"><tspan fill="#e6edf3">    </tspan><tspan class="st">self</tspan><tspan fill="#e6edf3">.location </tspan><tspan class="op">= </tspan><tspan class="val">"Magdeburg, Germany"</tspan></text>
   <text x="18" y="204" font-size="13"><tspan fill="#e6edf3">    </tspan><tspan class="st">self</tspan><tspan fill="#e6edf3">.stack    </tspan><tspan class="op">= </tspan><tspan fill="#e6edf3">[</tspan><tspan class="val">"Python"</tspan><tspan fill="#e6edf3">, </tspan><tspan class="val">"SQL"</tspan><tspan fill="#e6edf3">, </tspan><tspan class="val">"Azure"</tspan><tspan fill="#e6edf3">,</tspan></text>
   <text x="18" y="222" font-size="13"><tspan fill="#e6edf3">                   </tspan><tspan class="val">"PySpark"</tspan><tspan fill="#e6edf3">, </tspan><tspan class="val">"Databricks"</tspan><tspan fill="#e6edf3">, </tspan><tspan class="val">"Power BI"</tspan><tspan fill="#e6edf3">]</tspan></text>
-  <text x="18" y="240" font-size="13"><tspan fill="#e6edf3">    </tspan><tspan class="st">self</tspan><tspan fill="#e6edf3">.open_to  </tspan><tspan class="op">= </tspan><tspan fill="#e6edf3">[</tspan><tspan class="val">"Internships"</tspan><tspan fill="#e6edf3">, </tspan><tspan class="val">"Data &amp; Cloud Roles"</tspan><tspan fill="#e6edf3">]</tspan></text>
+  <text x="18" y="240" font-size="13"><tspan fill="#e6edf3">    </tspan><tspan class="st">self</tspan><tspan fill="#e6edf3">.open_to  </tspan><tspan class="op">= </tspan><tspan fill="#e6edf3">[</tspan><tspan class="val">"Internships"</tspan><tspan fill="#e6edf3">, </tspan><tspan class="val">"Data &amp; AI Roles"</tspan><tspan fill="#e6edf3">]</tspan></text>
   <text x="18" y="262" font-size="13"><tspan fill="#e6edf3">  </tspan><tspan class="kw">def </tspan><tspan class="fn">say_hi</tspan><tspan fill="#e6edf3">(self) -> str:</tspan></text>
   <text x="18" y="280" font-size="13"><tspan fill="#e6edf3">    </tspan><tspan class="kw">return </tspan><tspan class="val">"Let's turn data into decisions!"</tspan></text>
   <text x="18" y="302" font-size="13"><tspan class="st">me </tspan><tspan fill="#e6edf3">= </tspan><tspan class="fn">MohitVijay</tspan><tspan fill="#e6edf3">()</tspan></text>
@@ -81,7 +81,7 @@
   <text x="476" y="292" class="lbl" font-size="10">STATUS</text>
   <circle cx="480" cy="306" r="4" fill="#3fb950"/>
   <circle cx="480" cy="306" r="4" fill="#3fb950" class="ping"/>
-  <text x="493" y="310" fill="#e6edf3" font-size="12">Available for Internships &amp; Data/Cloud Roles</text>
+  <text x="493" y="310" fill="#e6edf3" font-size="12">Available for Internships / Working Student in &amp; Data/AI Roles</text>
   <text x="476" y="326" fill="#8b949e" font-size="11">Magdeburg, DE · UTC+2 · Replies within 24h</text>
 </g>
 <g class="f4">
